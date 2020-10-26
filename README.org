@@ -1,0 +1,2 @@
+#+TITLE: Gitlet
+Clowning around, working on the berkeley CS gitlet project
